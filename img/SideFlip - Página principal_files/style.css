@@ -29,12 +29,7 @@ h3{
 /** menu */
 nav, .page-footer{
     background: #4CAF50;
-    height: 90px;
-}
-.preloader-background{
-
-    height : 100px;
-
+    height: 100px;
 }
 
 nav .brand-logo, .page-footer h2{
@@ -56,7 +51,6 @@ font-weight: bold;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
-            background-size: 100px;
 
         }
 
